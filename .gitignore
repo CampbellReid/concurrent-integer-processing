@@ -1,0 +1,9 @@
+*.o
+*.axf
+*.crf
+*.d
+__pycache__/
+build/
+devel/
+obj/
+bin/
